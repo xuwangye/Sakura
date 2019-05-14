@@ -7,5 +7,5 @@ comments: false
 photos: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/music.jpg
 ---
 {% raw %}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450 src="//music.163.com/outchain/player?type=0&id=2315627766&auto=1&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450 src="//music.163.com/outchain/player?type=0&id=143374340&auto=1&height=430"></iframe>
 {% endraw %}

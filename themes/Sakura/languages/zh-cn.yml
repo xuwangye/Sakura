@@ -42,14 +42,27 @@ insight:
 
 #category
 技术:
-    zh: 野生技术协会
+    zh: 徐王爷的小小技术栈
     en: Geek – Only for Love
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/coding.jpg
+    img: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/coding.jpg
 生活:
     zh: 生活
-    en: live
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
+    en: Live
+    img: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/writing.jpg
+资源:
+    zh: 资源
+    en: Resource
+    img: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/writing.jpg
+随想:
+    zh: 随想
+    en: Random thoughts
+    img: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/writing.jpg
+转载:
+    zh: 转载
+    en: Forward
+    img: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/writing.jpg
+
 
 #tag
 悦读:
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/reading.jpg
+    img: https://cdn.jsdelivr.net/gh/xuwangye/cdn@1.3/img/banner/reading.jpg
