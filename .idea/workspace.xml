@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e71ba4a3-67eb-4efc-9c8f-3f5cec2d6c3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (10).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (11).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (12).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (13).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (14).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (15).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (16).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (2).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (3).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (4).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (5).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (6).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (7).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (8).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本 (9).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura - 副本.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/music/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/music/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/languages/zh-cn.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/languages/zh-cn.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/_partial/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/_partial/head.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/links.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/links.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/source/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/source/404.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +63,7 @@
           <entry key="ejs" value="104" />
           <entry key="html" value="112" />
           <entry key="md" value="596" />
-          <entry key="txt" value="23" />
+          <entry key="txt" value="91" />
           <entry key="yml" value="253" />
         </counts>
       </usages-collector>
@@ -101,76 +72,14 @@
           <entry key="EJS" value="104" />
           <entry key="HTML" value="112" />
           <entry key="Markdown" value="596" />
-          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="PLAIN_TEXT" value="122" />
           <entry key="YAML" value="253" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="22" column="324" selection-start-line="22" selection-start-column="324" selection-end-line="22" selection-end-column="324" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#span#0;n#p#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#span#0;n#p#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#span#0;n#p#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#2;n#span#0;n#p#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.deploy_git/sitemap.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/Sakura/source/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="107" column="13" selection-start-line="107" selection-start-column="13" selection-end-line="107" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/Sakura/layout/_partial/head.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/Sakura/layout/links.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -412,7 +321,7 @@
       <workItem from="1557470442736" duration="11599000" />
       <workItem from="1557537732233" duration="14706000" />
       <workItem from="1557728030215" duration="3122000" />
-      <workItem from="1557800371640" duration="2269000" />
+      <workItem from="1557800371640" duration="2747000" />
     </task>
     <task id="LOCAL-00001" summary="1 发布第一次文章，崔大大带我飞">
       <created>1557484646360</created>
@@ -421,17 +330,23 @@
       <option name="project" value="LOCAL" />
       <updated>1557484646360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 配置了站点地图&#10;2 修改了全局url：xuwangye.github.io 改为 sikidayo.com">
+      <created>1557802863366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557802863366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45836000" />
+    <option name="totallyTimeSpent" value="46314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="409" y="79" width="1280" height="704" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13584287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13419564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -466,7 +381,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 发布第一次文章，崔大大带我飞" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 发布第一次文章，崔大大带我飞" />
+    <MESSAGE value="1 配置了站点地图&#10;2 修改了全局url：xuwangye.github.io 改为 sikidayo.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 配置了站点地图&#10;2 修改了全局url：xuwangye.github.io 改为 sikidayo.com" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/themes/Sakura/layout/page.ejs">
@@ -843,8 +759,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/Sakura/layout/_partial/head.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        <state relative-caret-position="357">
+          <caret line="36" column="91" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
         </state>
       </provider>
     </entry>
